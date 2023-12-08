@@ -1,0 +1,5 @@
+outs:
+- md5: 5b0aba6241254da3315f446395365f8c
+  size: 30
+  hash: md5
+  path: settings.json
